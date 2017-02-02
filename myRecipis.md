@@ -5,7 +5,7 @@ date:   2017-02-02
 categories: main
 ---
 
-![food](https://www.pillsbury.com/recipes/ground-beef-tacos/7217b5cb-5bdc-4458-a6e4-844a39188b9c.jpd)
+![food](https://www.pillsbury.com/recipes/ground-beef-tacos/7217b5cb-5bdc-4458-a6e4-844a39188b9c.jpg)
 
 ## Ingredients
 - 1   lb. lean ground beef
